@@ -12,7 +12,8 @@
           "FontAwesome6.Svg": "2.5.1",
           "Microsoft.Extensions.DependencyInjection": "9.0.4",
           "Microsoft.Xaml.Behaviors.Wpf": "1.1.135",
-          "MySql.Data": "9.2.0"
+          "MySql.Data": "9.2.0",
+          "WpfLib": "1.0.0"
         },
         "runtime": {
           "Wpfapp2.dll": {}
@@ -298,6 +299,11 @@
             "fileVersion": "0.8.0.0"
           }
         }
+      },
+      "WpfLib/1.0.0": {
+        "runtime": {
+          "WpfLib.dll": {}
+        }
       }
     }
   },
@@ -551,6 +557,11 @@
       "sha512": "sha512-Z62eNBIu8E8YtbqlMy57tK3dV1+m2b9NhPeaYovB5exmLKvrGCqOhJTzrEUH5VyUWU6vwX3c1XHJGhW5HVs8dA==",
       "path": "zstdsharp.port/0.8.0",
       "hashPath": "zstdsharp.port.0.8.0.nupkg.sha512"
+    },
+    "WpfLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

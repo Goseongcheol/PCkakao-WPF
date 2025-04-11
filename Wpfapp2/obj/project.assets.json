@@ -575,6 +575,19 @@
         "runtime": {
           "lib/net8.0/ZstdSharp.dll": {}
         }
+      },
+      "WpfLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WpfLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WpfLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -1892,6 +1905,11 @@
         "zstdsharp.port.0.8.0.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "WpfLib/1.0.0": {
+      "type": "project",
+      "path": "../WpfLib/WpfLib.csproj",
+      "msbuildProject": "../WpfLib/WpfLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1900,7 +1918,8 @@
       "FontAwesome6.Svg >= 2.5.1",
       "Microsoft.Extensions.DependencyInjection >= 9.0.4",
       "Microsoft.Xaml.Behaviors.Wpf >= 1.1.135",
-      "MySql.Data >= 9.2.0"
+      "MySql.Data >= 9.2.0",
+      "WpfLib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1934,7 +1953,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\WpfLib\\WpfLib.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\WpfLib\\WpfLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

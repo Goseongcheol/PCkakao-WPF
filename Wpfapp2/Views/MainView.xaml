@@ -3,10 +3,16 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Wpfapp2.Views"
+        xmlns:local="clr-namespace:Wpfapp2.Views" xmlns:controls="clr-namespace:Wpfapp2.Controls"
         mc:Ignorable="d"
         WindowStyle="None"
         Title="MainView" Height="550" Width="350">
+    <WindowChrome.WindowChrome>
+        <WindowChrome CaptionHeight="20"
+                      ResizeBorderThickness="2"/>
+    </WindowChrome.WindowChrome>
+    
+    
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"/>
@@ -14,7 +20,7 @@
         </Grid.RowDefinitions>
     
         <!-- Title Bar -->
-        <StackPanel Background="Red" Height="20"/>
+        <controls:TitleBar/>
 
         <!-- Body -->
         <StackPanel Grid.Row="1" Background="Blue"/>

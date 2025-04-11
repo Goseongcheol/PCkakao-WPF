@@ -29,11 +29,9 @@ C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\bin\Debug\net8.0-windows\runtime
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Wpfapp2.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Wpfapp2_MarkupCompile.cache
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Wpfapp2_MarkupCompile.lref
-C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Wpfapp2.g.resources
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Wpfapp2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Wpfapp2.AssemblyInfoInputs.cache
@@ -46,3 +44,12 @@ C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\refint\
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Wpfapp2.pdb
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Wpfapp2.genruntimeconfig.cache
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\ref\Wpfapp2.dll
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Styles\Colors.baml
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Controls\TitleBar.g.cs
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Views\MainView.g.cs
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\App.baml
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Controls\TitleBar.baml
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Views\MainView.baml
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\bin\Debug\net8.0-windows\WpfLib.dll
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\bin\Debug\net8.0-windows\WpfLib.pdb
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs

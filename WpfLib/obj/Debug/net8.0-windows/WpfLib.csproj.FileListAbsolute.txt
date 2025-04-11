@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\bin\Debug\net8.0-windows\WpfLib.deps.json
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\bin\Debug\net8.0-windows\WpfLib.dll
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\bin\Debug\net8.0-windows\WpfLib.pdb
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib.AssemblyInfo.cs
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib.sourcelink.json
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib.dll
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\refint\WpfLib.dll
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib.pdb
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\ref\WpfLib.dll
