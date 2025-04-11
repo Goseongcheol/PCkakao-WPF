@@ -2,7 +2,7 @@
 using System.Configuration;
 using System.Data;
 using System.Windows;
-using Wpfapp2.services;
+using Wpfapp2.Views;
 
 namespace Wpfapp2
 {
@@ -19,7 +19,7 @@ namespace Wpfapp2
 
         private void App_Startup(object sender, StartupEventArgs e)
         {
-            var mainView = App.Current.Services.GetService<MainWindow>()!;
+            var mainView = App.Current.Services.GetService<MainView>()!;
             mainView.Show();
         }
 
@@ -33,10 +33,10 @@ namespace Wpfapp2
             var services = new ServiceCollection();
 
             // Services
-            services.AddSingleton<StateService, MessageService>();
+            //services.AddSingleton<StateService, MessageService>();
 
             // Views 
-            services.AddSingleton<MainWindow>();
+            services.AddSingleton<MainView>();
 
             return services.BuildServiceProvider();
         }
