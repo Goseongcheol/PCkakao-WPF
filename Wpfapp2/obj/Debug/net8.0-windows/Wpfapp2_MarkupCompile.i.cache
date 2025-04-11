@@ -9,12 +9,12 @@ Wpfapp2
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-
-4-1033783588
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\App.xaml
+31468200184
 
 71523488437
 2151634343415
-App.xaml;Controls\TitleBar.xaml;Styles\Colors.xaml;Views\MainView.xaml;
+Controls\TitleBar.xaml;Styles\Colors.xaml;Views\MainView.xaml;
 
-False
+True
 

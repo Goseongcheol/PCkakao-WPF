@@ -11,44 +11,20 @@
       "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\controls\\titlebar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\controls\\titlebar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\controls\\titlebar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\views\\mainview.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\views\\mainview.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\controls\\titlebar.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\controls\\titlebar.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\wpfapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\wpfapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2A75F173-9873-453D-AA4A-A6EBDA1A9DA1}|WpfLib\\WpfLib.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpflib\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A75F173-9873-453D-AA4A-A6EBDA1A9DA1}|WpfLib\\WpfLib.csproj|solutionrelative:wpflib\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,6 +43,24 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Wpfapp2\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Wpfapp2\\Styles\\Colors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-11T06:48:55.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,38 +70,27 @@
               "RelativeDocumentMoniker": "Wpfapp2\\Controls\\TitleBar.xaml.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\TitleBar.xaml.cs",
               "RelativeToolTip": "Wpfapp2\\Controls\\TitleBar.xaml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABwAAAAzAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAewC4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T05:05:08.995Z",
+              "WhenOpened": "2025-04-11T06:47:56.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TitleBar.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\TitleBar.xaml",
-              "RelativeDocumentMoniker": "Wpfapp2\\Controls\\TitleBar.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\TitleBar.xaml",
-              "RelativeToolTip": "Wpfapp2\\Controls\\TitleBar.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-11T04:59:29.967Z",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\WpfLib\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfLib\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\WpfLib\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfLib\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:48:44.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainView.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Views\\MainView.xaml",
-              "RelativeDocumentMoniker": "Wpfapp2\\Views\\MainView.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Views\\MainView.xaml",
-              "RelativeToolTip": "Wpfapp2\\Views\\MainView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-11T04:51:03.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Wpfapp2\\AssemblyInfo.cs",
@@ -115,28 +98,9 @@
               "RelativeToolTip": "Wpfapp2\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T01:47:30.668Z",
+              "WhenOpened": "2025-04-11T06:48:42.979Z",
               "EditorCaption": ""
             },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Wpfapp2.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Wpfapp2.csproj",
-              "RelativeDocumentMoniker": "Wpfapp2\\Wpfapp2.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Wpfapp2.csproj",
-              "RelativeToolTip": "Wpfapp2\\Wpfapp2.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-11T01:51:05.305Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -145,9 +109,9 @@
               "RelativeDocumentMoniker": "Wpfapp2\\Views\\MainView.xaml.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Views\\MainView.xaml.cs",
               "RelativeToolTip": "Wpfapp2\\Views\\MainView.xaml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T05:06:48.904Z",
+              "WhenOpened": "2025-04-11T06:48:41.498Z",
               "EditorCaption": ""
             },
             {
@@ -158,72 +122,9 @@
               "RelativeDocumentMoniker": "WpfLib\\Extensions\\FindParentExtention.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\WpfLib\\Extensions\\FindParentExtention.cs",
               "RelativeToolTip": "WpfLib\\Extensions\\FindParentExtention.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBUAAAAtAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T05:37:42.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\App.xaml",
-              "RelativeDocumentMoniker": "Wpfapp2\\App.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\App.xaml",
-              "RelativeToolTip": "Wpfapp2\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-11T05:03:28.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Colors.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Styles\\Colors.xaml",
-              "RelativeDocumentMoniker": "Wpfapp2\\Styles\\Colors.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Styles\\Colors.xaml",
-              "RelativeToolTip": "Wpfapp2\\Styles\\Colors.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-11T05:01:49.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainView.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Views\\MainView.xaml",
-              "RelativeDocumentMoniker": "Wpfapp2\\Views\\MainView.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Views\\MainView.xaml",
-              "RelativeToolTip": "Wpfapp2\\Views\\MainView.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-11T04:50:37.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Wpfapp2\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\App.xaml.cs",
-              "RelativeToolTip": "Wpfapp2\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T01:47:32.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TitleBar.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\TitleBar.xaml",
-              "RelativeDocumentMoniker": "Wpfapp2\\Controls\\TitleBar.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\TitleBar.xaml",
-              "RelativeToolTip": "Wpfapp2\\Controls\\TitleBar.xaml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-11T04:59:58.38Z",
               "EditorCaption": ""
             }
           ]

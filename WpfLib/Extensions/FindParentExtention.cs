@@ -13,10 +13,10 @@ namespace WpfLib.Extensions
         public static T? FindParent<T>(this DependencyObject child)
             where T : DependencyObject
         {
-            return FindParent<T>(child, null); 
+            return FindParent<T>(child,null) ; 
         }
 
-        public static T? FindParent<T>(this DependencyObject child, string? parentName)
+            public static T? FindParent<T>(this DependencyObject child, string? parentName)
             where T : DependencyObject
         {
             var parent = VisualTreeHelper.GetParent(child);

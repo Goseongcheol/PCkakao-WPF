@@ -45,7 +45,6 @@ namespace Wpfapp2.Controls
             {
                 window.WindowState= WindowState.Maximized;
             }
-            btnminimize.FindParent<Window>()!.WindowState = WindowState.Maximized;
         }
 
         private void BtnExit_Click(object sender, RoutedEventArgs e)
