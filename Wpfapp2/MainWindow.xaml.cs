@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using Wpfapp2.services;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -9,6 +10,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
 namespace Wpfapp2
 {
     /// <summary>
@@ -16,9 +18,15 @@ namespace Wpfapp2
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        public MainWindow(StateService messageService)
         {
             InitializeComponent();
+
+            MessageBox.Show(messageService.GetString());
+
+            //결합도가 높은 호출방식
+/*            StateService message = new MessageService();
+            MessageBox.Show(message.GetString());*/
         }
     }
 }
