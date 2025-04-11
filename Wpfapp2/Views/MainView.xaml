@@ -23,7 +23,7 @@
         <controls:TitleBar/>
 
         <!-- Body -->
-        <StackPanel Grid.Row="1" Background="Blue"/>
+        <StackPanel Grid.Row="1" Background="White"/>
 
 
     </Grid>

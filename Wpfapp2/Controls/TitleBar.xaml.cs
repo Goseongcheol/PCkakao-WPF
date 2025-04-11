@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CommunityToolkit.Mvvm.ComponentModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,8 +20,36 @@ namespace Wpfapp2.Controls
     /// <summary>
     /// TitleBar.xaml에 대한 상호 작용 논리
     /// </summary>
+
+    [ObservableObject]
     public partial class TitleBar : UserControl
     {
+        private Window? _parentWindow;
+
+        private WindowState _winState;
+
+        public WindowState WinState
+        {
+            get { return _winState; }
+            set
+            {
+                SetProperty(ref _winState, value);
+            }
+        }
+
+
+        public Window ParentWindow
+        {
+            get {
+                if(_parentWindow == null)
+                {
+                    _parentWindow = this.FindParent<Window>()!;
+                }
+                return _parentWindow; }
+            set { _parentWindow = value; }
+        }
+
+
         public TitleBar()
         {
             InitializeComponent();
@@ -31,25 +60,26 @@ namespace Wpfapp2.Controls
 
         private void Btnminimize_Click(object sender, RoutedEventArgs e)
         {
-            btnminimize.FindParent<Window>()!.WindowState = WindowState.Minimized;
+            WinState = WindowState.Minimized;
+            ParentWindow.WindowState = WinState;
         }
 
         private void Btnmaximize_Click(object sender, RoutedEventArgs e)
         {
-            var window= btnminimize.FindParent<Window>()!;
-            if (window.WindowState == WindowState.Maximized) 
-            {
-                window.WindowState = WindowState.Normal;
-            }
-            else
-            {
-                window.WindowState= WindowState.Maximized;
-            }
+            WinState = ParentWindow.WindowState == WindowState.Maximized
+                ? WindowState.Normal
+                : WindowState.Maximized;
+            ParentWindow.WindowState = WinState;
         }
 
         private void BtnExit_Click(object sender, RoutedEventArgs e)
         {
-            btnminimize.FindParent<Window>()!.Close();
+            ParentWindow.Close();
+        }
+
+        private void pnlTitle_TextInput(object sender, TextCompositionEventArgs e)
+        {
+
         }
     }
 }

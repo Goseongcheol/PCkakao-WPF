@@ -3,10 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:local="clr-namespace:Wpfapp2.Controls" xmlns:fa6="http://schemas.fontawesome.com/icons/svg"
+             xmlns:local="clr-namespace:Wpfapp2.Controls" xmlns:fa6="http://schemas.fontawesome.com/icons/svg" xmlns:converters="clr-namespace:Wpfapp2.Converters"
              mc:Ignorable="d" 
-             d:DesignHeight="20" d:DesignWidth="200">
+             d:DesignHeight="20" d:DesignWidth="200"
+             Name="root">
     <UserControl.Resources>
+        <converters:WindowStateMarginConverter
+        x:Key="WindowStateMarginConverter"/>
+        <converters:WindowStateIconConverter
+        x:Key="WindowStateIconConverter"/>
         <Style TargetType="{x:Type Button}">
             <Setter Property="Width" Value="25"/>
             <Setter Property="Height" Value="20"/>
@@ -27,15 +32,29 @@
     <DockPanel x:Name="pnlTitle"
         Background="{StaticResource ColorPrimary}"
                LastChildFill="false">
-        <Button x:Name="btnExit">
+        <Button x:Name="btnExit"
+                Margin="{Binding WinState, 
+            ElementName=root, 
+            Converter={StaticResource WindowStateMarginConverter},
+            ConverterParameter=Exit}"
+                >
             <fa6:SvgAwesome Icon="Solid_Xmark"/>
         </Button>
-        <Button x:Name="btnmaximize">
-        <fa6:SvgAwesome Icon="Regular_Square"
+        <Button x:Name="btnmaximize"   
+                Margin="{Binding WinState, 
+            ElementName=root, 
+            Converter={StaticResource WindowStateMarginConverter}}"
+                >
+        <fa6:SvgAwesome Icon="{Binding WinState, ElementName=root ,
+            Converter={StaticResource WindowStateIconConverter}}"
                         Width="13"
                         Height="13"/>
         </Button>
-        <Button x:Name="btnminimize">
+        <Button x:Name="btnminimize"
+                Margin="{Binding WinState, 
+            ElementName=root, 
+            Converter={StaticResource WindowStateMarginConverter}}"
+                >
             <fa6:SvgAwesome Icon="Solid_Minus"/>
         </Button>
     </DockPanel>
