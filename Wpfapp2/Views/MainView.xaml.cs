@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using Wpfapp2.ViewModels;
 
 namespace Wpfapp2.Views
 {
@@ -22,6 +23,7 @@ namespace Wpfapp2.Views
         public MainView()
         {
             InitializeComponent();
+            DataContext = App.Current.Services.GetService(typeof(MainViewModel)); 
         }
     }
 }

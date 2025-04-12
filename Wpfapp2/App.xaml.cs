@@ -2,6 +2,7 @@
 using System.Configuration;
 using System.Data;
 using System.Windows;
+using Wpfapp2.ViewModels;
 using Wpfapp2.Views;
 
 namespace Wpfapp2
@@ -31,6 +32,13 @@ namespace Wpfapp2
         private static IServiceProvider ConfigureServices()
         {
             var services = new ServiceCollection();
+
+            // ViewModel
+            services.AddTransient<MainViewModel>();
+            services.AddTransient<LoginControlViewModel>();
+            services.AddTransient<SignupControlViewModel>();
+            services.AddTransient<ChangePwdControlViewModel>();
+
 
             // Services
             //services.AddSingleton<StateService, MessageService>();

@@ -3,10 +3,24 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Wpfapp2.Views" xmlns:controls="clr-namespace:Wpfapp2.Controls"
+        xmlns:local="clr-namespace:Wpfapp2.Views" 
+        xmlns:controls="clr-namespace:Wpfapp2.Controls"
+        xmlns:vm ="clr-namespace:Wpfapp2.ViewModels"
+        xmlns:ctrl ="clr-namespace:Wpfapp2.Controls"
         mc:Ignorable="d"
         WindowStyle="None"
         Title="MainView" Height="550" Width="350">
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type vm:LoginControlViewModel}">
+            <ctrl:LoginControl/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:ChangePwdControlViewModel}">
+            <ctrl:ChangPwdControl/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:SignupControlViewModel}">
+            <ctrl:SignupControl/>
+        </DataTemplate>
+    </Window.Resources>
     <WindowChrome.WindowChrome>
         <WindowChrome CaptionHeight="20"
                       ResizeBorderThickness="2"/>
@@ -23,8 +37,18 @@
         <controls:TitleBar/>
 
         <!-- Body -->
-        <StackPanel Grid.Row="1" Background="White"/>
-
-
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="20"/>
+            </Grid.RowDefinitions>
+            
+            <ContentControl Content=""/>
+        <StackPanel Grid.Row ="1" Orientation="Horizontal">
+            <Button Content="로그인"/>
+            <Button Content="비밀번호 변경"/>
+            <Button Content="회원가입"/>
+        </StackPanel>
+        </Grid>
     </Grid>
 </Window>

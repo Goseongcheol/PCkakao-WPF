@@ -53,3 +53,9 @@ C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Views\M
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\bin\Debug\net8.0-windows\WpfLib.dll
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\bin\Debug\net8.0-windows\WpfLib.pdb
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Controls\ChangPwdControl.g.cs
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Controls\LoginControl.g.cs
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Controls\SignupControl.g.cs
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Controls\ChangPwdControl.baml
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Controls\LoginControl.baml
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Controls\SignupControl.baml
