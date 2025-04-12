@@ -68,8 +68,7 @@
               "RelativeToolTip": "Wpfapp2\\ViewModels\\SignupControlViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:26:05.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:26:05.244Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\ChangPwdControl.xaml",
               "RelativeToolTip": "Wpfapp2\\Controls\\ChangPwdControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-12T11:19:46.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:19:46.869Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\SignupControl.xaml",
               "RelativeToolTip": "Wpfapp2\\Controls\\SignupControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-12T11:19:26.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:19:26.018Z"
             },
             {
               "$type": "Document",
@@ -104,8 +101,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\LoginControl.xaml",
               "RelativeToolTip": "Wpfapp2\\Controls\\LoginControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-12T11:18:19.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:18:19.106Z"
             },
             {
               "$type": "Document",
@@ -117,8 +113,7 @@
               "RelativeToolTip": "Wpfapp2\\ViewModels\\LoginControlViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:16:10.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:16:10.449Z"
             },
             {
               "$type": "Document",
@@ -130,8 +125,7 @@
               "RelativeToolTip": "Wpfapp2\\Views\\MainView.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:11:35.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:11:35.371Z"
             },
             {
               "$type": "Document",
@@ -141,7 +135,7 @@
               "RelativeDocumentMoniker": "Wpfapp2\\ViewModels\\MainViewModel.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "Wpfapp2\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T11:11:33.355Z",
               "EditorCaption": ""
@@ -155,8 +149,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Views\\MainView.xaml",
               "RelativeToolTip": "Wpfapp2\\Views\\MainView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-12T10:45:29.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T10:45:29.376Z"
             }
           ]
         }
