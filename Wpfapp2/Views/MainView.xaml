@@ -43,11 +43,11 @@
                 <RowDefinition Height="20"/>
             </Grid.RowDefinitions>
             
-            <ContentControl Content=""/>
+            <ContentControl Content="{Binding CurrentViewModel}"/>
         <StackPanel Grid.Row ="1" Orientation="Horizontal">
-            <Button Content="로그인"/>
-            <Button Content="비밀번호 변경"/>
-            <Button Content="회원가입"/>
+            <Button Content="로그인" Command="{Binding ToLoginCommand}"/>
+            <Button Content="비밀번호 변경" Command="{Binding ToChangePwdCommand}"/>
+            <Button Content="회원가입" Command="{Binding ToSignupCommand}"/>
         </StackPanel>
         </Grid>
     </Grid>
