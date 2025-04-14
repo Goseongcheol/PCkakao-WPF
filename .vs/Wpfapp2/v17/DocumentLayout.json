@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\viewmodels\\logincontrolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\viewmodels\\logincontrolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\viewmodels\\signupcontrolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\viewmodels\\signupcontrolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\controls\\changpwdcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\controls\\changpwdcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\controls\\signupcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\controls\\signupcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\controls\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\controls\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\styles\\fonts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\styles\\fonts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\styles\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\styles\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|c:\\users\\user\\desktop\\workspace\\wpfapp2\\wpfapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3091B22B-3237-4A7C-B7EE-C6F57E5043CC}|Wpfapp2\\Wpfapp2.csproj|solutionrelative:wpfapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,105 +43,79 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 301,
-          "SelectedChildIndex": 6,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SignupControlViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\ViewModels\\SignupControlViewModel.cs",
-              "RelativeDocumentMoniker": "Wpfapp2\\ViewModels\\SignupControlViewModel.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\ViewModels\\SignupControlViewModel.cs",
-              "RelativeToolTip": "Wpfapp2\\ViewModels\\SignupControlViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:26:05.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ChangPwdControl.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\ChangPwdControl.xaml",
-              "RelativeDocumentMoniker": "Wpfapp2\\Controls\\ChangPwdControl.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\ChangPwdControl.xaml",
-              "RelativeToolTip": "Wpfapp2\\Controls\\ChangPwdControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-12T11:19:46.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SignupControl.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\SignupControl.xaml",
-              "RelativeDocumentMoniker": "Wpfapp2\\Controls\\SignupControl.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\SignupControl.xaml",
-              "RelativeToolTip": "Wpfapp2\\Controls\\SignupControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-12T11:19:26.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "LoginControl.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\LoginControl.xaml",
               "RelativeDocumentMoniker": "Wpfapp2\\Controls\\LoginControl.xaml",
               "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Controls\\LoginControl.xaml",
               "RelativeToolTip": "Wpfapp2\\Controls\\LoginControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-12T11:18:19.106Z"
+              "WhenOpened": "2025-04-14T09:50:46.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginControlViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\ViewModels\\LoginControlViewModel.cs",
-              "RelativeDocumentMoniker": "Wpfapp2\\ViewModels\\LoginControlViewModel.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\ViewModels\\LoginControlViewModel.cs",
-              "RelativeToolTip": "Wpfapp2\\ViewModels\\LoginControlViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:16:10.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Views\\MainView.xaml.cs",
-              "RelativeDocumentMoniker": "Wpfapp2\\Views\\MainView.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Views\\MainView.xaml.cs",
-              "RelativeToolTip": "Wpfapp2\\Views\\MainView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:11:35.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "Wpfapp2\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "Wpfapp2\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:11:33.355Z",
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Wpfapp2\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Wpfapp2\\Styles\\Colors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T09:49:22.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainView.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Views\\MainView.xaml",
-              "RelativeDocumentMoniker": "Wpfapp2\\Views\\MainView.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Views\\MainView.xaml",
-              "RelativeToolTip": "Wpfapp2\\Views\\MainView.xaml",
+              "Title": "Buttons.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Styles\\Buttons.xaml",
+              "RelativeDocumentMoniker": "Wpfapp2\\Styles\\Buttons.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Styles\\Buttons.xaml",
+              "RelativeToolTip": "Wpfapp2\\Styles\\Buttons.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-12T10:45:29.376Z"
+              "WhenOpened": "2025-04-14T09:49:21.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fonts.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Styles\\Fonts.xaml",
+              "RelativeDocumentMoniker": "Wpfapp2\\Styles\\Fonts.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\Styles\\Fonts.xaml",
+              "RelativeToolTip": "Wpfapp2\\Styles\\Fonts.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T09:44:30.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\App.xaml",
+              "RelativeDocumentMoniker": "Wpfapp2\\App.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\App.xaml",
+              "RelativeToolTip": "Wpfapp2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T09:44:06.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Wpfapp2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\Wpfapp2\\Wpfapp2\\App.xaml.cs",
+              "RelativeToolTip": "Wpfapp2\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:44:05.355Z",
+              "EditorCaption": ""
             }
           ]
         }

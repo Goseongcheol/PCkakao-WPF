@@ -59,3 +59,5 @@ C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Control
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Controls\ChangPwdControl.baml
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Controls\LoginControl.baml
 C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Controls\SignupControl.baml
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Styles\Buttons.baml
+C:\Users\user\Desktop\workspace\Wpfapp2\Wpfapp2\obj\Debug\net8.0-windows\Styles\Fonts.baml
