@@ -3,13 +3,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:local="clr-namespace:WpfLib.Controls"
+             xmlns:local="clr-namespace:WpfLib.Controls" xmlns:converters="clr-namespace:WpfLib.Converters"
              mc:Ignorable="d" 
              d:DesignHeight="50" 
              d:DesignWidth="200"
              x:Name="root">
     
     <UserControl.Resources>
+        <converters:ValidatingBorderBrushConverter x:Key="ValidatingBorderBrushConverter"/>
+        <converters:ValidatingBorderThicknessConverter x:Key="ValidatingBorderThicknessConverter"/>
+
         <Style x:Key="BaseControl" TargetType="{x:Type FrameworkElement}">
             <Setter Property="Control.FontSize" Value="{Binding FontSize, ElementName=root}"/>
             <Setter Property="ItemsControl.FontFamily" Value="{Binding FontFamily,
@@ -34,10 +37,26 @@
                 UpdateSourceTrigger=PropertyChanged}"/>
             <Setter Property="Background" Value="Transparent"/>
             <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="BorderThickness">
+                <Setter.Value>
+                    <MultiBinding Converter="{StaticResource ValidatingBorderThicknessConverter}">
+                        <Binding Path="Validating" ElementName="root"/>
+                        <Binding Path="BorderThickness" ElementName="root"/>
+                    </MultiBinding>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="BorderBrush">
+                <Setter.Value>
+                    <MultiBinding Converter="{StaticResource ValidatingBorderBrushConverter}">
+                        <Binding Path="Validating" ElementName="root"/>
+                        <Binding Path="BorderBrush" ElementName="root"/>
+                    </MultiBinding>
+                </Setter.Value>
+            </Setter>
         </Style>
     </UserControl.Resources>
     <Grid>
-        <TextBlock Text="텍스트 블록"/>
-        <TextBox x:Name="txt" Text=""/>
+        <TextBlock />
+        <TextBox x:Name="txt" />
     </Grid>
 </UserControl>

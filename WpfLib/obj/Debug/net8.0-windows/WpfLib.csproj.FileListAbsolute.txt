@@ -15,3 +15,4 @@ C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib_M
 C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib_MarkupCompile.lref
 C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\Controls\TextBoxControl.baml
 C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib.g.resources
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
