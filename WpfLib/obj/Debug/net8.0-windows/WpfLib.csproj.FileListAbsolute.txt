@@ -10,3 +10,8 @@ C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib.d
 C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\refint\WpfLib.dll
 C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib.pdb
 C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\ref\WpfLib.dll
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\Controls\TextBoxControl.g.cs
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib_MarkupCompile.cache
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib_MarkupCompile.lref
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\Controls\TextBoxControl.baml
+C:\Users\user\Desktop\workspace\Wpfapp2\WpfLib\obj\Debug\net8.0-windows\WpfLib.g.resources
